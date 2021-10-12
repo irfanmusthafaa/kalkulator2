@@ -1,0 +1,76 @@
+
+
+.App {
+  text-align: center;
+}
+
+.body-calculator{
+  margin-top: 200px;
+  border: 5px;
+  text-align: center;
+ 
+}
+
+.form-group{
+  margin-bottom: 5px;
+}
+
+.form-control{
+  margin-bottom: 5px;
+  width: 200px;
+  height: 30px;
+}
+
+.form-checkbox{
+  margin-top: 3px;
+  height: 20px;
+  width: 30px;
+  margin-left: 30px;
+}
+
+.button-position{
+  margin-right: 50px;
+}
+
+.tombol{
+  height: 40px;
+  width: 45px;
+  margin-right: 10px;
+  background-color: #A2D2FF;
+  border-color: #A2D2FF;
+  font-weight: 700;
+}
+
+.tombol:hover{
+  background-color: #E5DCC3;
+  border-color: #E5DCC3;
+}
+
+.garis{
+  width: 280px;
+  margin-top: 20px;
+}
+
+.bag-hasil{
+    margin-top: 50px;
+}
+
+.text-hasil{
+  font-size: 30px;
+  font-weight: 500;
+}
+
+.isi-hasil{
+  color: red;
+  font-size: 30px;
+  font-weight: 500;
+}
+
+.form-hasil{
+    font-size: 30px;
+    color: red;
+    margin-left: 100px;
+    height: 30px;
+    width: 80px;
+    border: none;
+}
